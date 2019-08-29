@@ -4,4 +4,4 @@ This project implements a Naive Bayes classifier for classifying emails as eithe
 
 ## Important Files to look at
 
-- [NaiveBayes](https://github.com/alexismacaskilll/naiveBayes/NaiveBayes.java) implements the Naive Bayes algorithm. 
+- [NaiveBayes](https://github.com/alexismacaskilll/naiveBayes/blob/master/NaiveBayes.java) implements the Naive Bayes algorithm. 
